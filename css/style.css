@@ -29,6 +29,7 @@ body{
 }
 
 h1{
+  font-size: unset;
   font-size: 50px;
   line-height: 1;
   padding: 50px 0;
